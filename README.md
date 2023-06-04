@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Full Stack Open Part 1 CourseInfo Step 2 Exercise
 
+This includes all the required files
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
